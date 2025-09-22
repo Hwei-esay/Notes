@@ -1,41 +1,9 @@
 ---
 layout: post
-title: "Lecture from Xinzheng Li 0920"
+title: "Notes for originality "
 author: "Haowei"
-abstract: 主要讨论相变的定义和判断
+summary_separator: "<!--more-->"  # 这里设置了摘要停止的字符
 ---
-![img_2.png](./images/img0920/Lecture.jpg)
+this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract <!--more-->
 
-## 基于李-杨相变理论与路径积分方法理解多体与量子多体问题
-
-李新征：主要研究分子动力学，路径积分
-
-机器学习相比第一性原理计算分子动力学节省100倍时间。说明了新计算方法的引入可以节约计算时间并且发现新的现象：相同的算力可以计算更长的时间，从而发现了高压冰在相对低压的时候并不是静态的，也是动态的，只是动的周期长，超出传统计算周期
-
-### 1.李-杨相变理论
-
-相变，**Phase** Transition. 什么是“相”
-
-Phase & State ？ 在最初，人们以态区分物质的状态，但是同一个状态下物质的某种性质（例如磁性）也会发生变化，这时就引入了相，是在同一台下更为细致的状态。
-
-#### 相变
-
-**物理规律是某种以解析函数表达的规律。**  
-
-发生相变：原有的物理规律被破坏 比如理想气体，在不同的压强、温度下有不同的相，在不同的相下适用的描述气体的方程不同。
-
-表征**相变**，就是扩展参数空间。当你在现有的参数空间下发现物理规律被破坏，就可以通过扩展参数空间来在其他空间找到描述这个物理规律的更高的规律，这个规律不会被破坏，因此可以对相变进行描述。
-
-
-相变是因为在参数空间出现了*奇点*，在统计学中是配分函数的零点 物理学量中出现**复数**才会出现奇点。即将参数空间拓展到复数空间。
-
-参考下面两个图，一个是在参数空间中一直远离实轴，因此不会出现奇点，不会发生相变。 在第二个图中，与实轴有多个交点，因此至少发生n次相变。特别的，因为是复平面，因此一个奇点可能有多条路径抵达，因此一个奇点可能对应多个相变。
-
-![img.png](./images/img0920/img.png)
-
-![img_1.png](./images/img0920/img_1.png)
-
-## 路径积分
-量子力学不同于波函数的表达
-
-不用波函数，使用积分方法描述传播子
+this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract
