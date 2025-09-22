@@ -2,8 +2,8 @@
 layout: post
 title: "Notes for originality "
 author: "Haowei"
-summary_separator: "<!--more-->"  # 这里设置了摘要停止的字符
+excerpt: "This Is Abstract."
 ---
-this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract <!--more-->
+aaa
 
 this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract this is abstract
