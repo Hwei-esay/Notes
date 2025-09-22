@@ -1,42 +1,40 @@
-title : Elementary - Jekyll Blog Theme
-name: 'Elementary Jekyll Theme'
-description: 'Simple, light weight, responsive jekyll theme for hackers'
-source: https://Hwei-esay.github.io/Notes
+# Site settings
+title:          Lectures
+description:    "Collection of lecture reports."
+#url:            https://github.com/inelaah/rain
 
-markdown: kramdown
-highlighter: rouge
-javascript_enabled: true
+# Author
+author:
+  name:         Haowei Guo
+#  email:        inelaah@gmail.com
+#  url:          https://inelaah.com
 
-featured_posts_title: Unrelated
-featured_posts:
-  - url: '#'
-    title: 'Featured post #1'
-  - url: '#'
-    title: 'Featured post #2'
-  - url: '#'
-    title: 'Featured post #3'
+# Build settings
+markdown:       kramdown
 
-collections:
-  news:
-    title: News
-    default_open: false
-    output: true
-  posts:
-    title: Essays
-    default_open: true
-    output: true
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
-defaults:
-  - scope:
-      type: posts
-    values:
-      title: Essays
-      permalink: /post/:title
-  - scope:
-      type: news
-    values:
-      title: News
-      permalink: /news/:title
-
+# Gems
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+   - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Related posts settings
+related_posts_section:
+  max_count:        5
+  min_common_tags:  2
+
+# Links to social media
+social:
+  email: 2499032660@qq.com
+  github: https://github.com/hwei-esay
+#  twitter: https://twitter.com
+#  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
