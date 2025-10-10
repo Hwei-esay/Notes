@@ -2,8 +2,6 @@
 layout: post
 ---
 
-Intro: literature review <!--more-->
-
 ## 1. Dynamical synchronization transition in interacting electron systems
 
 > The effect of BCL on graphene was discussed theoretically in this paper.
