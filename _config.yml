@@ -2,8 +2,8 @@ title : Elementary - Jekyll Blog Theme
 name: 'Elementary Jekyll Theme'
 description: 'Simple, light weight, responsive jekyll theme for hackers'
 
-url: https://hwei-esay.github.io
-permalink: /notes
+url: https://hwei-esay.github.io/notes
+#permalink: /notes
 
 markdown: kramdown
 highlighter: rouge
