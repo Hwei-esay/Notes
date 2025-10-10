@@ -1,6 +1,6 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+title: Notes | Hwei's Academic notes.
+#description: "A minimal, responsive, ready to use blog template, built with Jekyll."
 url: "https://hwei-esay.github.io/"
 #author:
 #  name: "The Review Index"
@@ -34,6 +34,6 @@ gems:
 version: "1.0.0"
 
 # Options
-custom_header: false
-custom_nav_footer: false
+custom_header: true
+custom_nav_footer: true
 reverse: false
