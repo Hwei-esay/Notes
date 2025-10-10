@@ -1,4 +1,8 @@
-# Literature Review
+---
+layout: post
+---
+
+Intro: literature review <!--more-->
 
 ## 1. Dynamical synchronization transition in interacting electron systems
 
