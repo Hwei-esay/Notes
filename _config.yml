@@ -16,8 +16,6 @@ permalink: /:title
 paginate: 8
 paginate_path: /page:num/
 
-usemathjax: true
-
 # Default values
 defaults:
   -

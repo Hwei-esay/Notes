@@ -1,3 +1,7 @@
+---
+layout: post
+usemathjax: true
+---
 ## Basic Concepts of CTCMP
 
 **非点式对称(nonsymmorphic symmetry):**
