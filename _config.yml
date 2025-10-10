@@ -33,12 +33,12 @@ defaults:
       type: posts
     values:
       title: Essays
-      permalink: /post/:title
+      permalink: /notes/post/:title
   - scope:
       type: news
     values:
       title: News
-      permalink: /news/:title
+      permalink: /notes/news/:title
 
 plugins:
   - jekyll-sitemap
