@@ -29,3 +29,20 @@ linear / nonlinear
     - Without magnetic field, gradient of temperature creates current like electric field.
 
 **Weak TSC(Topological Superconductors):**
+- To be explained.
+
+**$Z_2$ Nodal line semimetals**
+
+There are several types of semimetals: nodal, nodal line, weyl semimetal.
+
+- nodal: 
+
+Example： One dirac point is a nodal semimetal. It turns into a weyl semimetal if the degeneration of dirac point is broken.
+
+**Weyl semimetal**
+
+Weyl comes from Weyl fermions. Low energy excitation of Weyl semimetal are Weyl fermions.
+
+Weyl semimetal has gapless states in the bulk and boundary.
+
+**Fermi arc**
