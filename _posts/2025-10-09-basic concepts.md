@@ -46,3 +46,9 @@ Weyl comes from Weyl fermions. Low energy excitation of Weyl semimetal are Weyl 
 Weyl semimetal has gapless states in the bulk and boundary.
 
 **Fermi arc**
+
+- To be explained.
+
+**Landau paradigm**:
+
+- To be explained.
